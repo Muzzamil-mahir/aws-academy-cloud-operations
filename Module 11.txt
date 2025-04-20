@@ -1,0 +1,28 @@
+1. if a user cannot create a resource, you should check if the user has the permissions to create it.
+ans. True
+
+2. Which type of AWS CloudFormation Function can be used to refer to a value in a comma-delimited list ?
+ans. Fn::Select
+3.where is the source of the error if a WaitConditions times out or returns an error?
+ans AWS::CloudFormation::Init
+4. Which AWS service enables you to build A script-like template that represents a stack of aws resources and that can be used to launch precisely defined environments on aws
+ans. AWS CloudFormation
+
+5. When you create a custom Amazon machine image (AMI),it is only available in the region in which it was created.
+ans. true
+6. Which resource does Amazon EC2 auto scaling use?
+ans. Launch Templates
+7. What can an AWS CloudFormation template contain ?(select two)
+ans. AWS resources and AWS CLI commands
+
+8. Javascript object notation Json documents do not support binary data
+ans. true
+
+9. Which AWS CloudFormation resource type can provide metadata about an Amazon Elastic Compute Cloud (Amazon EC2) instance for the cfn-init helper script?
+ans. init
+
+10. AWS CodePipeline Can Integrate With third-party tools and AWS services.
+ans. true
+
+
+
